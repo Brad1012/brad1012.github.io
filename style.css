@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 html, body {
   height: 100%;
@@ -7,9 +7,9 @@ html, body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-family: Roboto;
-  color: #00D2BE;
-  background-color: #8fa0a5;
+  font-family: 'Lato', sans-serif;
+  color: #E3E1E1;
+  background-color: #000056;
   text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
 }
 
@@ -20,7 +20,7 @@ html, body {
 
 #welcome-section {
   text-align: center;
-  padding-top: 30vh;
+  padding-top: 25vh;
 }
 
 #social-footer {
@@ -42,10 +42,13 @@ footer p1 {
 }
 
 img {
-  padding-top: 20px;
   padding-right: 10px;
   border-radius: 5px;
   width: 20px;
   height: 20px;
 }
-
+/*
+#footer-links {
+  border-style: solid;
+  border-color: #E3E1E1;
+}*/
