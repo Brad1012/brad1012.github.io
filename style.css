@@ -35,6 +35,7 @@ html, body {
 #nav-bar a:hover{
   color: #23284E;
   background-color: #E3E1E1;
+  text-shadow: none;
 }
  #nav-bar li {
    display: inline;
