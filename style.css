@@ -36,7 +36,9 @@ html, body {
   color: #23284E;
   background-color: #E3E1E1;
 }
-
+ #nav-bar li {
+   display: inline;
+ }
 #welcome-section {
   text-align: center;
   padding-top: 25vh;
