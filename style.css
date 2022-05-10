@@ -49,10 +49,6 @@ img {
 
 img:hover {
   transform: scale(1.5);
-  transition: all 1s;
+  transition: all 0.5s;
 }
-/*
-#footer-links {
-  border-style: solid;
-  border-color: #E3E1E1;
-}*/
+
