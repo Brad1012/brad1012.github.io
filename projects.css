@@ -10,17 +10,7 @@ html, body {
 }
 
 header {
-  display: flex;
   min-height: 40px;
-}
-
-header h1 {
-  flex: 1;
-
-}
-
-header a {
-  margin-top: 5px;
 }
 
 header a:hover {
