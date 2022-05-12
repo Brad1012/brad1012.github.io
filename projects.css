@@ -10,10 +10,22 @@ html, body {
 }
 
 header {
-  /*background-color: red;*/
-  
+  display: flex;
+  min-height: 40px;
 }
 
+header h1 {
+  flex: 1;
+}
+
+header a {
+  margin-top: 5px;
+}
+
+header a:hover {
+  background-color: #E3E1E1;
+  color: #23284E;
+}
 /*.content {
   height: 200px;
   background-color: white;
