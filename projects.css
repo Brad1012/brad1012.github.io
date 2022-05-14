@@ -17,7 +17,12 @@ header a:hover {
   background-color: #E3E1E1;
   color: #23284E;
 }
-/*.content {
-  height: 200px;
-  background-color: white;
-}*/
+
+.grid-item {
+  background-color: rgba(71, 85, 105);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  color: #23284E;
+}
