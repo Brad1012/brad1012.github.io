@@ -26,3 +26,8 @@ header a:hover {
   text-align: center;
   color: #23284E;
 }
+
+.grid-item:hover {
+  display: none;
+  transform: 0.5;
+}
