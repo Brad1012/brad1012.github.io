@@ -37,9 +37,11 @@ html, body {
   background-color: #E3E1E1;
   text-shadow: none;
 }
+
  #nav-bar li {
    display: inline;
- }
+}
+
 #welcome-section {
   text-align: center;
   padding-top: 25vh;
@@ -50,7 +52,7 @@ html, body {
   background-color: #23284E;
   margin-top: auto;
   font-size: 12px;
-  }
+}
 
 footer {
   display: flex;
